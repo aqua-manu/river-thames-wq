@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
-data = pd.read_csv("C:\\Users\\Kofi2\\Documents\\FYP\\data\\Thames_Initiative_2009-2017.csv")
+data = pd.read_csv("C:\\Users\\aquamanu\\Documents\\FYP\\data\\Thames_Initiative_2009-2017.csv")
 
 data.head()
 data.columns
