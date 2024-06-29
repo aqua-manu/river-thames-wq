@@ -4,7 +4,7 @@ from statsmodels.tsa.api import VAR
 import numpy as np
 
 
-data = pd.read_csv("C:\\Users\\Kofi2\\Documents\\FYP\\data\\Thames_Initiative_2009-2017.csv")
+data = pd.read_csv("C:\\Users\\aquamanu\\Documents\\FYP\\data\\Thames_Initiative_2009-2017.csv")
 
 data.head()
 data.columns
